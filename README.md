@@ -1,4 +1,4 @@
-# TransferLearningInceptionV3Pneumonia
+# Transfer Learning with InceptionV3 for Pneumonia Detection
 Detect pneumonia using transfer learning and Inception V3
 ## Transfer Learning
 So we have all the different models floating around the web. WE have all heard about the Alexnet, VGG, Resnet, Inception and so on. they were all designed to find cats and dogs and toothbrushes, but how many times do we look for that in real life ?
